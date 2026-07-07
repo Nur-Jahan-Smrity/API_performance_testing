@@ -454,7 +454,7 @@ Planned improvements include:
 
 **Nur Jahan Smrity**
 
-Software Quality Assurance Learner | API Performance Testing | Apache JMeter | GitHub Project Practice
+Software Quality Assurance Engineer | API Performance Testing | Apache JMeter | GitHub Project Practice
 
 ### Connect With Me
 
