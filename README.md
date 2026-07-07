@@ -263,14 +263,9 @@ The Apache JMeter HTML Dashboard provides a visual representation of performance
 * Error Analysis
 * Percentile Response Times
 
-### Dashboard Screenshot
+## HTML Dashboard Report
 
-Add dashboard screenshot here:
-
-```markdown
-<img width="1900" height="957" alt="Report" src="https://github.com/user-attachments/assets/b9afef6b-926e-49bb-bbad-d5e10f7db85c" />
-
-```
+![HTML Dashboard Report](https://github.com/user-attachments/assets/b9afef6b-926e-49bb-bbad-d5e10f7db85c)
 
 ---
 
